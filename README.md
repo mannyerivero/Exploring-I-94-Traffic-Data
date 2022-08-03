@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The aim of this project is to analyze westbound traffice on the I-94 Interestate Highway and determine influential patterns on traffice patterns. Some of the following will be examined:
+The aim of this project is to analyze westbound traffice on the I-94 Interestate Highway and determine influential factors on traffic patterns. Some of the following will be examined:
 
 * Weather
 * Time of year
